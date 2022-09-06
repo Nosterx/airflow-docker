@@ -1,4 +1,4 @@
-# airflow-docker for ["Apache Airflow для аналитика"| https://stepik.org/course/99527/syllabus]
+# airflow-docker for ["Apache Airflow для аналитика"|https://stepik.org/course/99527/syllabus]
 1. SMTP settings
 ![изображение](https://user-images.githubusercontent.com/4470993/188668179-3409c6c8-6d17-400c-9da7-fa769cea71de.png)
 ![изображение](https://user-images.githubusercontent.com/4470993/188668493-c56b3b27-6360-41bb-b5d1-428dbaba833c.png)
